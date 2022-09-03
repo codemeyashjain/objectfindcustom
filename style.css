@@ -1,0 +1,20 @@
+body{
+    background-image: url("cyan-and-gold-abstract-ink.jpg");
+    background-size: cover;
+}
+#canvas{
+    background-color: rgb(196, 236, 196);
+    border-radius:20px;
+    border-style: dashed;
+    border-color: aquamarine;
+    box-shadow:5px 5px 5px yellow;
+    margin:20px;
+    padding:20px;
+
+}
+#mainhead{
+ color:rgb(247, 247, 215);
+ margin:10px;
+ padding:10px;
+ font-size: 50px;
+}
